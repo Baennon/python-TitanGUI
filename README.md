@@ -16,7 +16,7 @@ python3.7 -m pip install pyperclip
 ```
 This script also requires to have an existing Titan's password file
 
-*Very Important*
+**Very Important**
 
 Before using this script the following line of the script must be editted to match the absolute path of the Titan's password file
 
