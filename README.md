@@ -1,6 +1,6 @@
 # Python TitanGUI
 
-A python base GUI for the password manager CLI Titan
+A python based GUI for the password manager CLI Titan
 
 ## Requirements
 
